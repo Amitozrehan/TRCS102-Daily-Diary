@@ -90,3 +90,29 @@ To practice this concept, I created a Number Guessing Game workflow. The workflo
 I also built an AI Expense Tracker that accepts expense details from users and uses AI to categorize transactions, summarize spending, and organize financial information. During development, I worked with AI prompts, JSON formatting, and workflow debugging. I also encountered temporary API availability issues, which highlighted the importance of implementing retries and testing automation workflows thoroughly.
 
 Today's session strengthened my understanding of advanced workflow logic while demonstrating how AI and automation can be combined to build useful real-world applications.
+
+# Day 9 – Scheduler Trigger, Gmail Integration, and AI News Report
+
+**Date:** 02-07-2026
+
+Today's training focused on automating scheduled tasks using the **Scheduler Trigger** node in n8n and integrating **Gmail** into workflows. I learned that the Scheduler Trigger allows workflows to execute automatically at predefined intervals, such as every hour, daily, weekly, or at a specific date and time. This feature is extremely useful for creating automated systems that run without manual intervention.
+
+I also explored Gmail integration in n8n, which enables workflows to send emails automatically. I learned how to configure Gmail authentication, compose email messages, and deliver notifications or reports directly to recipients through automated workflows.
+
+To apply these concepts, I built an **AI News Report** workflow. The workflow was designed to run on a schedule, collect the latest news from a news source, summarize the articles using an AI model, and send the summarized report via Gmail. This project demonstrated how multiple services can be connected to create a fully automated information delivery system.
+
+By the end of the session, I gained practical experience in scheduling workflows, integrating email services, and combining AI with automation to generate and distribute useful daily reports without requiring any manual effort.
+
+# Day 10 – AI Weather Update, AI Job Finder, and YouTube Video Summarizer
+
+**Date:** 03-07-2026
+
+Today's training focused on developing three practical AI-powered workflows using n8n: **AI Weather Update**, **AI Job Finder**, and **YouTube Video Summarizer**. Each project demonstrated how AI and automation can work together to solve different real-world problems efficiently.
+
+The AI Weather Update workflow was designed to retrieve current weather information for a specified location and present it in a clear, user-friendly format. Through this project, I learned how external APIs can be integrated into workflows to provide real-time information and how AI can improve the readability of the results.
+
+The AI Job Finder workflow accepted user preferences such as job role, skills, or location and processed the information to help identify relevant job opportunities. This project emphasized collecting user input, handling structured data, and generating meaningful responses.
+
+The final project was a YouTube Video Summarizer, which accepted a YouTube video link, extracted the video's transcript, and used an AI model to generate a concise summary highlighting the main ideas and important points. This workflow demonstrated how AI can save time by converting lengthy video content into easy-to-read summaries.
+
+Overall, today's session strengthened my understanding of API integration, AI-powered content processing, workflow design, and the practical application of automation in everyday tasks. These projects further enhanced my confidence in building intelligent, user-focused automation solutions using n8n.
