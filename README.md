@@ -128,3 +128,15 @@ I began by understanding how the Evolution API serves as a bridge between WhatsA
 During the implementation, I also explored API authentication, HTTP Request nodes, JSON data handling, and message formatting. While configuring the chatbot, I encountered a few issues related to API endpoints and request parameters, which helped me improve my debugging and troubleshooting skills. By carefully testing each node and verifying API responses, I was able to identify configuration errors and successfully complete the workflow.
 
 This project provided valuable hands-on experience in integrating messaging platforms with AI-powered automation. It demonstrated how chatbots can be used to automate customer interactions, provide instant support, and improve communication efficiency. Overall, today's session enhanced my understanding of API integration, workflow automation, and conversational AI using n8n and the Evolution API.
+
+# Day 12 – Introduction to Antigravity
+
+**Date:** 07-07-2026
+
+Today, I was introduced to **Antigravity**, a platform designed to simplify the development and deployment of AI agents and automation solutions. The session provided an overview of its interface, key features, and how it can be used alongside existing automation tools to build intelligent applications. I explored the platform's layout and gained an understanding of its workflow for creating, managing, and monitoring AI-driven processes.
+
+During the session, I learned about the core concepts of Antigravity, including project creation, agent configuration, and integration with external services. The platform emphasizes low-code development, allowing developers to build AI-powered solutions with minimal manual coding while maintaining flexibility for advanced customization. I also understood how Antigravity supports the integration of AI models, APIs, and automation tools to create scalable and efficient workflows.
+
+The discussion highlighted the importance of selecting the right platform based on project requirements and demonstrated how Antigravity can be used to accelerate the development of intelligent applications. I also gained insight into the potential use cases of the platform, such as AI assistants, workflow automation, customer support systems, and business process optimization.
+
+Overall, today's session served as a valuable introduction to Antigravity and expanded my knowledge of modern AI development platforms. It provided a foundation for exploring more advanced features in future sessions and understanding how AI agents can be efficiently designed, deployed, and managed using specialized development environments.
