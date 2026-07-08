@@ -116,3 +116,15 @@ The AI Job Finder workflow accepted user preferences such as job role, skills, o
 The final project was a YouTube Video Summarizer, which accepted a YouTube video link, extracted the video's transcript, and used an AI model to generate a concise summary highlighting the main ideas and important points. This workflow demonstrated how AI can save time by converting lengthy video content into easy-to-read summaries.
 
 Overall, today's session strengthened my understanding of API integration, AI-powered content processing, workflow design, and the practical application of automation in everyday tasks. These projects further enhanced my confidence in building intelligent, user-focused automation solutions using n8n.
+
+# Day 11 – Building a WhatsApp Chatbot Using n8n and Evolution API
+
+**Date:** 06-07-2026
+
+Today's training focused on building a **WhatsApp chatbot** by integrating **n8n** with the **Evolution API**. The objective was to create an automated chatbot capable of receiving WhatsApp messages, processing user requests, and sending intelligent responses without manual intervention.
+
+I began by understanding how the Evolution API serves as a bridge between WhatsApp and n8n workflows. I learned how to create and configure an instance, generate an API key, and establish a secure connection between the messaging platform and the automation workflow. Using a Webhook Trigger in n8n, incoming WhatsApp messages were captured and processed automatically. The workflow then analyzed the user's message, generated an appropriate response using AI, and returned the reply through the Evolution API.
+
+During the implementation, I also explored API authentication, HTTP Request nodes, JSON data handling, and message formatting. While configuring the chatbot, I encountered a few issues related to API endpoints and request parameters, which helped me improve my debugging and troubleshooting skills. By carefully testing each node and verifying API responses, I was able to identify configuration errors and successfully complete the workflow.
+
+This project provided valuable hands-on experience in integrating messaging platforms with AI-powered automation. It demonstrated how chatbots can be used to automate customer interactions, provide instant support, and improve communication efficiency. Overall, today's session enhanced my understanding of API integration, workflow automation, and conversational AI using n8n and the Evolution API.
